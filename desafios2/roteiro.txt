@@ -1,4 +1,9 @@
 1. visita à praia
 2. passeio ao museu 
 3. apresentação musical
+<<<<<<< HEAD
 4. visita ao centro histórico 
+=======
+4. passeios de barco 
+5. jantar especial.
+>>>>>>> roteiro2
